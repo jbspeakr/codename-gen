@@ -3,13 +3,10 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jan Brennenstuhl -- Software Developer -- @jbspeakr
 
-# THANKS
-
-    <name>
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    Modernizr, AngularJS
